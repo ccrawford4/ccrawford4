@@ -11,4 +11,4 @@
 <br>
 - Junior Computer Science Major at the University of San Francisco
 - Always learning
-- Personal website [link](https://calum-crawford.com)
+- Personal website: https://calum-crawford.com
