@@ -11,5 +11,5 @@
 <ul>
   <li>Junior Computer Science Major at the University of San Francisco</li>
   <li>Always learning</li>
-  <li>Personal Website: https://calum-crawford.com</li>
+  <li>[Personal Website](https://www.calum-crawford.com)</li>
 </ul>
