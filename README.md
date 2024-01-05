@@ -9,9 +9,9 @@
 <br>
 <p>
   - Junior Computer Science Major at the University of San Francisco <br>
-  - Current Software Intern at [Bushido](https://www.bushidoco.de) <br>
+  - Current Software Intern at Bushido: https://www.bushidoco.de <br>
   - Always eager to learn <br>
-  - [Personal Website](https://www.calum-crawford.com/) <br>
+  - Personal Website: (https://www.calum-crawford.com/ <br>
 </p>
 <br>
 <div id="user-content-toc">
