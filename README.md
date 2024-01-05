@@ -7,8 +7,9 @@
 <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
 <br>
-- Junior Computer Science Major at the University of San Francisco
-- Always learning
-- Personal website: https://calum-crawford.com
+<ul>
+  <li>Junior Computer Science Major at the University of San Francisco</li>
+  <li>Always learning</li>
+  <li>Personal Website: https://calum-crawford.com</li>
+</ul>
