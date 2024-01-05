@@ -7,10 +7,10 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <br>
-  - Junior Computer Science Major at the University of San Francisco
-  - Current Software Intern at [Bushido](https://www.bushidoco.de)
-  - Always eager to learn
-  - [Personal Website](https://www.calum-crawford.com)
+  - Junior Computer Science Major at the University of San Francisco <br>
+  - Current Software Intern at [Bushido](https://www.bushidoco.de) <br>
+  - Always eager to learn <br>
+  - [Personal Website](https://www.calum-crawford.com/) <br>
 <br>
 <div id="user-content-toc">
   <ul align="center">
