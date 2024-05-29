@@ -28,7 +28,7 @@ My interests including:
 <img src="https://skillicons.dev/icons?i=anaconda,r,sklearn,mysql,postgres" />
 
 ### Web Application Tools and Technologies
-<img src="https://skillicons.dev/icons?i=bootstrap,css,django,flask,html,jest,jquery,next.js,node.js,npm,postman,prisma,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=bootstrap,css,django,flask,html,jest,jquery,nextjs,nodejs,npm,postman,prisma,react,tailwind" />
 
 ### Cloud Deployment and Containzization
 <img src="https://skillicons.dev/icons?i=aws,docker,gcp,jenkins,kubernetes" />
