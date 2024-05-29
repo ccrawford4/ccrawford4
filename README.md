@@ -23,12 +23,16 @@ My interests including:
 ## Technologies
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=py,java,c,js,ts,swift,php" />
+
 ### Databases and Data Analysis Tools
 <img src="https://skillicons.dev/icons?i=anaconda,r,sklearn,mysql,postgres" />
+
 ### Web Application Tools and Technologies
 <img src="https://skillicons.dev/icons?i=bootstrap,css,django,flask,html,jest,jquery,next.js,node.js,npm,postman,prisma,react,tailwind" />
+
 ### Cloud Deployment and Containzization
 <img src="https://skillicons.dev/icons?i=aws,docker,gcp,jenkins,kubernetes" />
+
 ### Enviornments
 <img src="https://skillicons.dev/icons?i=eclipse,idea,linux,neovim,ubuntu,vim,vscode,windows" />
 
