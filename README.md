@@ -16,17 +16,26 @@ My name is Calum, I am a rising senior Computer Science major at the University 
 
 ## Technologies
 ### Programming Languages
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript,swift,php" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,js,ts,swift,php" />
   </a>
-</p>
+### Databases and Data Analysis Tools
+<img src="https://skillicons.dev/icons?i=anaconda,r,sklearn,mysql,postgres" />
+### Web Application Tools and Technologies
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,django,flask,html,jest,jquery,next.js,node.js,npm,postman,prisma,react,tailwind" />
+  </a>
+### Cloud Deployment and Containzization
+    <img src="https://skillicons.dev/icons?i=aws,docker,gcp,jenkins,kubernetes" />
+### Enviornments
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,linux,neovim,ubuntu,vim,vscode,windows," />
 
 ## Contact Me
 
 <a href="mailto:ccrawford6@dons.usfca.edu" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
-<a href="https://www.linkedin.com/in/calum-a-crawford" target="_blank">
-<i className="ci ci-linkedin ci-2x"></i>
+<a href="https://www.linkedin.com/in/calum-a-crawford">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
