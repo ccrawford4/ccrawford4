@@ -41,7 +41,7 @@ My interests including:
 <a href="mailto:ccrawford6@dons.usfca.edu" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-<p></p>
+
 
 <a href="https://www.linkedin.com/in/calum-a-crawford">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
