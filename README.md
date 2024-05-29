@@ -15,11 +15,12 @@ My name is Calum, I am a rising senior Computer Science major at the University 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ccrawford4&theme=onedark)](https://git.io/streak-stats)
 
 ## Technologies
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
-/>
-<i className="ci ci-java ci-2x"></i>
+### Programming Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript,swift,php" />
+  </a>
+</p>
 
 ## Contact Me
 
