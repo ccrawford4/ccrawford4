@@ -16,9 +16,7 @@ My name is Calum, I am a rising senior Computer Science major at the University 
 
 ## Technologies
 ### Programming Languages
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,c,js,ts,swift,php" />
-  </a>
 ### Databases and Data Analysis Tools
 <img src="https://skillicons.dev/icons?i=anaconda,r,sklearn,mysql,postgres" />
 ### Web Application Tools and Technologies
