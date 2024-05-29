@@ -38,12 +38,11 @@ My interests including:
 
 ## Contact Me
 
-<a href="mailto:ccrawford6@dons.usfca.edu" target="_blank">
+<a href="mailto:ccrawford6@dons.usfca.edu" target="_blank" style="margin-right: 20px;">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-
-<a href="https://www.linkedin.com/in/calum-a-crawford">
+<a href="https://www.linkedin.com/in/calum-a-crawford" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
