@@ -17,6 +17,8 @@ My name is Calum, I am a rising senior Computer Science major at the University 
   </picture>
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ccrawford4&theme=onedark)](https://git.io/streak-stats)
+
 
 ## Contact Me
 
