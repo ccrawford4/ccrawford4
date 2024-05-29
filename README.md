@@ -16,17 +16,15 @@ My name is Calum, I am a rising senior Computer Science major at the University 
 
 ## Technologies
 ### Programming Languages
-    <img src="https://skillicons.dev/icons?i=py,java,c,js,ts,swift,php" />
+<img src="https://skillicons.dev/icons?i=py,java,c,js,ts,swift,php" />
 ### Databases and Data Analysis Tools
 <img src="https://skillicons.dev/icons?i=anaconda,r,sklearn,mysql,postgres" />
 ### Web Application Tools and Technologies
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,django,flask,html,jest,jquery,next.js,node.js,npm,postman,prisma,react,tailwind" />
-  </a>
+<img src="https://skillicons.dev/icons?i=bootstrap,css,django,flask,html,jest,jquery,next.js,node.js,npm,postman,prisma,react,tailwind" />
 ### Cloud Deployment and Containzization
-    <img src="https://skillicons.dev/icons?i=aws,docker,gcp,jenkins,kubernetes" />
+<img src="https://skillicons.dev/icons?i=aws,docker,gcp,jenkins,kubernetes" />
 ### Enviornments
-    <img src="https://skillicons.dev/icons?i=eclipse,idea,linux,neovim,ubuntu,vim,vscode,windows," />
+<img src="https://skillicons.dev/icons?i=eclipse,idea,linux,neovim,ubuntu,vim,vscode,windows" />
 
 ## Contact Me
 
