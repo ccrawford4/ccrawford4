@@ -6,9 +6,7 @@
 </a>
 </div>
 
-## Introduction
-
-Rising senior Computer Science major at the University of San Francisco. I have prior internship experience in full-stack web development and I am also interested in Cloud Infrastrucutre and DevOps. More recently, I have been working on improving my programming skills in mobile development, specifically Swift for iOS development using XCode and SwiftUI. Feel free to check some of my projects out [Here](https://github.com/ccrawford4?tab=repositories)
+Welcome to my page, I am Cal, a rising senior Computer Science major at the University of San Francisco. I have prior internship experience in full-stack web development and I am also interested in Cloud Infrastrucutre and DevOps. More recently, I have been working on improving my programming skills in mobile development, specifically Swift for iOS development using XCode and SwiftUI. Feel free to check some of my projects out [Here](https://github.com/ccrawford4?tab=repositories)
 
 ## Github Stats
 
