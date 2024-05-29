@@ -1,5 +1,11 @@
+# Hey There! I'm Calum.
 ## Introduction
-My name is Calum, I am a rising senior Computer Science major at the University of San Francisco. I have prior internship experience in full-stack web development. I have also done personal projects and hackathons focusing on Cloud Infrastrucutre/Deployment and DevOps. More recently, I have been working on improving my programming skills in mobile development, specifically Swift for iOS development using XCode and SwiftUI. Feel free to check some of my projects out [Here](https://github.com/ccrawford4?tab=repositories)
+Welcome! My name is Calum, a rising senior Computer Science major at the University of San Francisco. I have prior industry experience in full-stack web development. I have also done personal projects and hackathons focusing on Cloud Infrastrucutre/Deployment, DevOps, and Machine Learning. More recently, I have been working on improving my programming skills in mobile development, specifically in Swift for iOS development using XCode and SwiftUI. Feel free to check some of my projects out [Here](https://github.com/ccrawford4?tab=repositories). 
+
+My interests including:
+* Coding (full-stack applications, mobile, CI/CD pipelines, and building and training machine learning models)
+* Cooking
+* Playing Soccer
 
 ## Github Stats
 
