@@ -39,7 +39,8 @@ My interests including:
 ## Contact Me
 
 <a href="mailto:ccrawford6@dons.usfca.edu" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+  <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
 <a href="https://www.linkedin.com/in/calum-a-crawford">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
