@@ -5,19 +5,6 @@ My interests including:
 * Cooking
 * Playing Soccer
 
-## Github Stats
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=123438979" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=123438979&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @ccrawford4" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=123438979&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<p></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ccrawford4&theme=onedark)](https://git.io/streak-stats)
-
 ## Technologies
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=py,java,c,js,ts,swift,php" />
