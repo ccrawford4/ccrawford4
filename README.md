@@ -20,7 +20,7 @@ My interests including:
 <img src="https://skillicons.dev/icons?i=aws,docker,gcp,jenkins,kubernetes" />
 
 ### Enviornments
-<img src="https://skillicons.dev/icons?i=idea,pycharm,linux,neovim,ubuntu,vim,vscode,windows,bash" />
+<img src="https://skillicons.dev/icons?i=idea,pycharm,linux,neovim,ubuntu,vscode,bash" />
 
 ## Contact Me
 
