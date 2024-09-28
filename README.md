@@ -8,7 +8,7 @@ My interests including:
 
 ## Technologies
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=py,java,c,js,ts,swift,php" />
+<img src="https://skillicons.dev/icons?i=go,py,java,c,js,ts,swift,php" />
 
 ### Databases and Data Analysis Tools
 <img src="https://skillicons.dev/icons?i=anaconda,r,sklearn,mysql,postgres" />
