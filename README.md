@@ -17,7 +17,7 @@ My interests including:
 <img src="https://skillicons.dev/icons?i=bootstrap,css,django,flask,html,jest,jquery,nextjs,nodejs,npm,postman,prisma,react,tailwind" />
 
 ### Cloud Deployment and Containzization
-<img src="https://skillicons.dev/icons?i=aws,docker,gcp,jenkins,kubernetes" />
+<img src="https://skillicons.dev/icons?i=aws,docker,gcp,azure,jenkins,kubernetes" />
 
 ### Enviornments
 <img src="https://skillicons.dev/icons?i=idea,pycharm,linux,neovim,ubuntu,vscode,bash" />
