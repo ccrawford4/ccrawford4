@@ -4,7 +4,7 @@ Hello my name is Calum. I'm a senior Computer Science student at the University 
 My hobbies including:
 * Coding
 * Cooking
-* Playing Soccer
+* Soccer
 * Lifting
 
 ## Technologies
