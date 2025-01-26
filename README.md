@@ -23,7 +23,7 @@ Hello my name is Calum. I'm a senior Computer Science student at the University 
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/calum-a-crawford" target="_blank">
+<a href="https://www.linkedin.com/in/calum-crawford-05b093253/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
