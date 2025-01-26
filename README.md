@@ -9,13 +9,10 @@ Hello my name is Calum. I'm a senior Computer Science student at the University 
 <img src="https://skillicons.dev/icons?i=anaconda,r,sklearn,mysql,postgres" />
 
 ### Web Application Tools and Technologies
-<img src="https://skillicons.dev/icons?i=bootstrap,css,django,flask,html,jest,jquery,nextjs,nodejs,npm,postman,prisma,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,django,flask,jest,jquery,nextjs,nodejs,postman,prisma,react,tailwind" />
 
 ### Cloud Deployment and Containzization
 <img src="https://skillicons.dev/icons?i=aws,docker,gcp,azure,jenkins,kubernetes" />
-
-### Enviornments
-<img src="https://skillicons.dev/icons?i=idea,pycharm,linux,neovim,ubuntu,vscode,bash" />
 
 ## Contact Me
 
