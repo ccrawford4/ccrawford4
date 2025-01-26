@@ -3,7 +3,7 @@ Hello my name is Calum. I'm a senior Computer Science student at the University 
 
 ## Technologies
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=go,py,java,c,js,ts,swift,php" />
+<img src="https://skillicons.dev/icons?i=go,py,java,c,js,ts,swift" />
 
 ### Databases and Data Analysis Tools
 <img src="https://skillicons.dev/icons?i=anaconda,r,sklearn,mysql,postgres" />
