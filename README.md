@@ -1,2 +1,2 @@
 ## About
-Hi, I’m Calum — a CS senior at USF (graduating May 2025) with three full-stack SWE internships. I love backend engineering, infrastructure, and building performant systems. Incoming Cloud Engineering Intern @ Handshake.
+Hi, I’m Calum — a CS graduate from USF. I love backend engineering, infrastructure, and building performant systems.
