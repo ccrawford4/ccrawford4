@@ -1,5 +1,5 @@
 ## About
-Hi, I’m Calum — a CS graduate from USF and Cloud Engineer at Handshake. I love backend engineering, infrastructure, and building performant systems. 
+Hi, I’m Calum — a CS graduate from USF and Cloud Engineer at Handshake. I love backend engineering, infrastructure, automation, and building performant systems. 
 
 ### What I've been working on
 
