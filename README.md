@@ -4,7 +4,7 @@ Hi, I’m Calum — a CS graduate from USF and Cloud Engineer at Handshake. I lo
 ### What I've been working on
 
 **August 2025 - Present**
-* Kubernetes from scratch. Going back to the fundamentals and working on creating my first self-managed kubernetes cluster. No GKE, mini-kube or other abstractions - just kubeadm hosted on google vms.
+* [Kubernetes from scratch](https://github.com/ccrawford4/kubeadm-example). Going back to the fundamentals and working on creating my first self-managed kubernetes cluster. No GKE, mini-kube or other abstractions - just kubeadm hosted on google vms.
 
 **July - August 2025**
 * Contributed to [total](https://github.com/edwardshturman/total), an open-sourced expense tracker which brings all of your income sources to one place
