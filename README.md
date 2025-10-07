@@ -4,7 +4,7 @@ Cloud Engineer at Handshake. I enjoy backend engineering, infrastructure, automa
 ### What I've been working on
 
 **September 2025 - Present**
-* [Self-Managed K8s Cluster](https://github.com/ccrawford4/home). Taking it a step further, and deploying all my old projects on a self-managed Kuberentes cluster running on some Rasberry Pis. See [search.calum.run](https://search.calum.run). I manage all my applications using ArgoCD [here](https://argocd.calum.run)
+* [Self-Managed K8s Cluster](https://github.com/ccrawford4/home). Taking it a step further, and deploying all my old projects on a self-managed Kuberentes cluster running on some Rasberry Pis. See [search.calum.run](https://search.calum.run) for example. I manage all my applications using ArgoCD [here](https://argocd.calum.run)
 
 **August 2025 - Present**
 * [Kubernetes from scratch](https://github.com/ccrawford4/kubeadm-example). Going back to the fundamentals and working on creating my first self-managed kubernetes cluster. No GKE, minikube or other abstractions - just kubeadm hosted on google vms.
